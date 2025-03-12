@@ -2,55 +2,63 @@
   "data": {
     "nodes": [
       {
-        "type": "LOCATION",
-        "name": "Colombo",
-        "nid": "67a46e7accc322ac0f025458"
-      },
-      {
-        "type": "LOCATION",
-        "name": "Ratnapura",
-        "nid": "67adf2cebbb123cb4045304"
-      },
-      {
-        "type": "LOCATION",
-        "name": "Galle",
-        "nid": "67adf2cebbb234bcb4045305"
-      },
-      {
-        "type": "LOCATION",
-        "name": "Kandy",
-        "nid": "67adf2cebbb5678cb4045306"
-      },
-      {
-        "type": "LOCATION",
-        "name": "Rajagiriya",
-        "nid": "67adf2cebbb25ebcb4045307"
-      },
-      {
-        "type": "HOBBIES",
-        "name": "Traveling",
-        "nid": "67adf2cebbb25ebcb4045308"
-      },
-      {
-        "type": "HOBBIES",
-        "name": "Photography",
-        "nid": "67adf2cebbb25ebcb4045309"
-      },
-      {
-        "type": "HOBBIES",
-        "name": "Music",
-        "nid": "67adf2cebbb25ebcb4045310"
-      },
-      {
-        "type": "HOBBIES",
-        "name": "Sports",
-        "nid": "67adf2cebbb25ebcb4045311"
-      },
-      {
-        "type": "HOBBIES",
-        "name": "Art",
-        "nid": "67adf2cebbb25ebcb4045312"
-      }
+      "name": "Birdwatching",
+      "nid": "67adf2cebbb25ebcb404531e",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Gardening",
+      "nid": "67adf2cebbb25ebcb40452df",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Photography",
+      "nid": "67adf2cebbb25ebcb40452e0",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Painting",
+      "nid": "67adf2cebbb25ebcb40452e1",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Hiking",
+      "nid": "67adf2cebbb25ebcb40452eb",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Camping",
+      "nid": "67adf2cebbb25ebcb40452ec",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Fishing",
+      "nid": "67adf2cebbb25ebcb40452ed",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Cycling",
+      "nid": "67adf2cebbb25ebcb40452ee",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Yoga",
+      "nid": "67adf2cebbb25ebcb4045300",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Swimming",
+      "nid": "67adf2cebbb25ebcb40452f0",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Playing musical instruments",
+      "nid": "67adf2cebbb25ebcb40452f7",
+      "type": "HOBBIES"
+    },
+      
+      
+      
     ]
   }
 }
