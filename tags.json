@@ -1,0 +1,56 @@
+{
+  "data": {
+    "nodes": [
+      {
+        "type": "LOCATION",
+        "name": "Colombo",
+        "nid": "67a46e7accc322ac0f025458"
+      },
+      {
+        "type": "LOCATION",
+        "name": "Ratnapura",
+        "nid": "67adf2cebbb123cb4045304"
+      },
+      {
+        "type": "LOCATION",
+        "name": "Galle",
+        "nid": "67adf2cebbb234bcb4045305"
+      },
+      {
+        "type": "LOCATION",
+        "name": "Kandy",
+        "nid": "67adf2cebbb5678cb4045306"
+      },
+      {
+        "type": "LOCATION",
+        "name": "Rajagiriya",
+        "nid": "67adf2cebbb25ebcb4045307"
+      },
+      {
+        "type": "HOBBIES",
+        "name": "Traveling",
+        "nid": "67adf2cebbb25ebcb4045308"
+      },
+      {
+        "type": "HOBBIES",
+        "name": "Photography",
+        "nid": "67adf2cebbb25ebcb4045309"
+      },
+      {
+        "type": "HOBBIES",
+        "name": "Music",
+        "nid": "67adf2cebbb25ebcb4045310"
+      },
+      {
+        "type": "HOBBIES",
+        "name": "Sports",
+        "nid": "67adf2cebbb25ebcb4045311"
+      },
+      {
+        "type": "HOBBIES",
+        "name": "Art",
+        "nid": "67adf2cebbb25ebcb4045312"
+      }
+    ]
+  }
+}
